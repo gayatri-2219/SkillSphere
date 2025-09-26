@@ -61,5 +61,5 @@ Skill Sphere connects learners, educators, and employers in a **digital skills e
 
 
 🔗 Prototype
-Check out the live prototype on Figma: Skill Sphere Prototype https://www.figma.com/make/UWjDGLFEJDPxyUTfp6N4jk/Skill-Sphere-Prototype?fullscreen=1
+Check out the live prototype on Figma: Skill Sphere Prototype[ https://www.figma.com/make/UWjDGLFEJDPxyUTfp6N4jk/Skill-Sphere-Prototype?fullscreen=1](https://www.figma.com/make/ZL1ZS6HvenO4rrlfnjyjyp/Skill-Sphere-Platform-Prototype?node-id=0-1&p=f&t=AQbfGEb4HB5jYxlc-0&fullscreen=1)
 
