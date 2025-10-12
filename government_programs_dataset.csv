@@ -1,0 +1,101 @@
+program_id,program_name,conducting_body,duration_weeks,delivery_mode,target_audience,skill_area,credential_type,verification_body,start_date,end_date,enrollment_count,region
+GOV3000,Women in Tech,NSDC,12,Hybrid,Students,"Cybersecurity, AI",Badge,NSDC,2025-07-07,2025-10-06,1178,Tamil Nadu
+GOV3001,Cyber Suraksha,NSDC,4,Hybrid,Both,"IoT, Automation",Digital Certificate,MeitY,2025-09-15,2025-10-06,1666,Telangana
+GOV3002,Skill Bharat,Ministry of Electronics & IT,4,Offline,Students,"Blockchain, Cloud",Badge,MeitY,2025-08-30,2025-10-06,4847,Maharashtra
+GOV3003,AI for All,Ministry of Skill Development,24,Online,Students,"Data Science, Cloud",Digital Certificate,MeitY,2025-06-24,2025-10-06,2810,Maharashtra
+GOV3004,National IoT Initiative,AICTE,12,Online,Students,"Cloud, Network Security",License,MeitY,2025-01-27,2025-10-06,2381,Telangana
+GOV3005,Skill Bharat,Ministry of Electronics & IT,4,Hybrid,Students,"Automation, Digital Marketing",Digital Certificate,NSDC,2024-11-06,2025-10-06,1029,Maharashtra
+GOV3006,Skill Bharat,NSDC,8,Hybrid,Students,"Digital Marketing, AI",Digital Certificate,AICTE,2025-06-06,2025-10-06,2868,Karnataka
+GOV3007,Women in Tech,NSDC,4,Hybrid,Employees,"Blockchain, Automation",License,AICTE,2025-06-05,2025-10-06,3179,Karnataka
+GOV3008,AI for All,AICTE,24,Online,Students,"Cloud, Cybersecurity",License,MeitY,2025-02-23,2025-10-06,4511,Karnataka
+GOV3009,AI for All,Ministry of Electronics & IT,4,Online,Students,"AI, IoT",Digital Certificate,MeitY,2025-07-29,2025-10-06,1506,Telangana
+GOV3010,Skill Bharat,NASSCOM,12,Offline,Students,"Cloud, Cybersecurity",Badge,NSDC,2025-08-06,2025-10-06,4765,Telangana
+GOV3011,Cyber Suraksha,AICTE,8,Offline,Employees,"Automation, Robotics",Digital Certificate,AICTE,2025-08-09,2025-10-06,2305,Karnataka
+GOV3012,AI for All,Ministry of Skill Development,4,Online,Employees,"Data Science, Blockchain",Badge,Skill India Authority,2025-09-21,2025-10-06,2156,Telangana
+GOV3013,AI for All,NASSCOM,12,Online,Employees,"Automation, IoT",Digital Certificate,Skill India Authority,2025-03-08,2025-10-06,3427,Tamil Nadu
+GOV3014,Cyber Suraksha,NSDC,12,Online,Both,"Cybersecurity, Cloud",Digital Certificate,NSDC,2025-10-02,2025-10-06,3766,Pan-India
+GOV3015,National IoT Initiative,Ministry of Electronics & IT,6,Offline,Employees,"Blockchain, Automation",License,MeitY,2025-09-28,2025-10-06,1163,Delhi NCR
+GOV3016,Skill Bharat,NSDC,12,Offline,Employees,"AI, Cybersecurity",Digital Certificate,MeitY,2024-11-22,2025-10-06,1910,Tamil Nadu
+GOV3017,Digital India Skill Development,NSDC,12,Hybrid,Employees,"Blockchain, Cybersecurity",License,Skill India Authority,2025-07-14,2025-10-06,1443,Pan-India
+GOV3018,National IoT Initiative,NASSCOM,24,Online,Students,"Robotics, IoT",Digital Certificate,Skill India Authority,2024-12-04,2025-10-06,4558,Telangana
+GOV3019,Digital India Skill Development,Ministry of Skill Development,4,Hybrid,Students,"Network Security, Cybersecurity",Digital Certificate,Skill India Authority,2025-01-21,2025-10-06,2276,Tamil Nadu
+GOV3020,Women in Tech,AICTE,4,Offline,Both,"Network Security, Cloud",Badge,Skill India Authority,2025-09-13,2025-10-06,1799,Tamil Nadu
+GOV3021,Digital India Skill Development,AICTE,8,Hybrid,Students,"Blockchain, Network Security",Badge,NSDC,2025-02-08,2025-10-06,3169,Pan-India
+GOV3022,AI for All,AICTE,6,Online,Both,"Cloud, Blockchain",Badge,MeitY,2024-12-27,2025-10-06,1029,Maharashtra
+GOV3023,Digital India Skill Development,Ministry of Electronics & IT,8,Online,Both,"Automation, Digital Marketing",Digital Certificate,MeitY,2025-06-01,2025-10-06,1520,Karnataka
+GOV3024,National IoT Initiative,AICTE,24,Online,Employees,"Cybersecurity, Data Science",Digital Certificate,NSDC,2025-04-17,2025-10-06,1998,Maharashtra
+GOV3025,National IoT Initiative,Ministry of Skill Development,6,Offline,Both,"Data Science, Robotics",Badge,MeitY,2025-07-06,2025-10-06,1560,Telangana
+GOV3026,Women in Tech,NSDC,4,Online,Both,"Blockchain, Automation",License,MeitY,2025-02-15,2025-10-06,3796,Karnataka
+GOV3027,Skill Bharat,AICTE,6,Offline,Both,"Robotics, Cybersecurity",Digital Certificate,Skill India Authority,2024-10-12,2025-10-06,4486,Maharashtra
+GOV3028,Skill Bharat,NSDC,6,Online,Employees,"Cybersecurity, Robotics",Badge,Skill India Authority,2024-12-16,2025-10-06,2045,Tamil Nadu
+GOV3029,National IoT Initiative,Ministry of Electronics & IT,8,Online,Employees,"AI, Digital Marketing",Digital Certificate,NSDC,2024-10-22,2025-10-06,2693,Karnataka
+GOV3030,Women in Tech,NSDC,24,Online,Students,"Digital Marketing, Blockchain",License,NSDC,2025-01-31,2025-10-06,3101,Karnataka
+GOV3031,AI for All,Ministry of Skill Development,24,Online,Both,"Digital Marketing, IoT",Badge,MeitY,2025-03-20,2025-10-06,4175,Pan-India
+GOV3032,Skill Bharat,NSDC,4,Offline,Students,"Digital Marketing, Robotics",Digital Certificate,NSDC,2025-05-10,2025-10-06,2464,Telangana
+GOV3033,AI for All,AICTE,6,Offline,Both,"AI, IoT",License,NSDC,2025-09-02,2025-10-06,1833,Karnataka
+GOV3034,National IoT Initiative,NSDC,12,Hybrid,Students,"AI, Digital Marketing",License,AICTE,2025-06-06,2025-10-06,1246,Telangana
+GOV3035,Skill Bharat,Ministry of Skill Development,8,Online,Students,"Network Security, Robotics",Digital Certificate,Skill India Authority,2025-06-23,2025-10-06,2407,Karnataka
+GOV3036,Skill Bharat,NSDC,24,Online,Students,"Network Security, Automation",Digital Certificate,Skill India Authority,2024-12-21,2025-10-06,2707,Delhi NCR
+GOV3037,Skill Bharat,NSDC,24,Online,Students,"AI, Network Security",Digital Certificate,Skill India Authority,2025-06-13,2025-10-06,4148,Pan-India
+GOV3038,Digital India Skill Development,NASSCOM,4,Offline,Employees,"Data Science, Cybersecurity",License,Skill India Authority,2025-04-12,2025-10-06,4100,Tamil Nadu
+GOV3039,Skill Bharat,Ministry of Skill Development,6,Offline,Both,"Blockchain, Robotics",License,MeitY,2025-06-28,2025-10-06,4436,Tamil Nadu
+GOV3040,Women in Tech,NASSCOM,24,Online,Students,"Blockchain, Network Security",License,AICTE,2025-02-23,2025-10-06,3014,Maharashtra
+GOV3041,Digital India Skill Development,Ministry of Skill Development,6,Online,Both,"Cybersecurity, Network Security",License,MeitY,2025-01-09,2025-10-06,1401,Telangana
+GOV3042,National IoT Initiative,Ministry of Electronics & IT,8,Hybrid,Employees,"Data Science, Blockchain",License,MeitY,2024-12-29,2025-10-06,3450,Telangana
+GOV3043,Digital India Skill Development,Ministry of Skill Development,24,Hybrid,Students,"Network Security, Automation",License,Skill India Authority,2025-02-01,2025-10-06,3955,Karnataka
+GOV3044,Skill Bharat,Ministry of Electronics & IT,6,Offline,Employees,"Cloud, AI",Badge,NSDC,2025-05-04,2025-10-06,2453,Telangana
+GOV3045,Digital India Skill Development,Ministry of Electronics & IT,6,Hybrid,Students,"Cybersecurity, AI",Badge,NSDC,2024-12-03,2025-10-06,4070,Telangana
+GOV3046,Digital India Skill Development,NSDC,4,Online,Both,"Blockchain, Digital Marketing",License,MeitY,2024-10-12,2025-10-06,3609,Karnataka
+GOV3047,Women in Tech,NASSCOM,24,Offline,Students,"Network Security, Robotics",Digital Certificate,NSDC,2025-04-07,2025-10-06,1526,Maharashtra
+GOV3048,Women in Tech,AICTE,8,Hybrid,Both,"Data Science, IoT",Digital Certificate,AICTE,2025-08-06,2025-10-06,1277,Pan-India
+GOV3049,Skill Bharat,Ministry of Electronics & IT,24,Offline,Both,"Robotics, Blockchain",Badge,Skill India Authority,2025-02-15,2025-10-06,4438,Tamil Nadu
+GOV3050,Skill Bharat,NSDC,6,Hybrid,Employees,"Network Security, Blockchain",Digital Certificate,MeitY,2025-03-29,2025-10-06,3177,Delhi NCR
+GOV3051,Cyber Suraksha,Ministry of Skill Development,24,Hybrid,Students,"Automation, Digital Marketing",Badge,Skill India Authority,2025-01-26,2025-10-06,3634,Pan-India
+GOV3052,Cyber Suraksha,NASSCOM,4,Hybrid,Employees,"IoT, Robotics",Badge,MeitY,2025-04-04,2025-10-06,1821,Karnataka
+GOV3053,National IoT Initiative,AICTE,24,Offline,Both,"Data Science, Digital Marketing",License,NSDC,2025-02-22,2025-10-06,4380,Telangana
+GOV3054,AI for All,NSDC,12,Online,Both,"IoT, Data Science",License,AICTE,2025-07-28,2025-10-06,3712,Delhi NCR
+GOV3055,Cyber Suraksha,Ministry of Skill Development,6,Offline,Students,"Data Science, Robotics",Digital Certificate,NSDC,2025-03-27,2025-10-06,3025,Karnataka
+GOV3056,National IoT Initiative,NSDC,24,Online,Employees,"Network Security, Automation",Badge,AICTE,2025-05-25,2025-10-06,2869,Pan-India
+GOV3057,AI for All,Ministry of Electronics & IT,6,Offline,Students,"Blockchain, Robotics",Digital Certificate,MeitY,2025-05-23,2025-10-06,3841,Tamil Nadu
+GOV3058,National IoT Initiative,Ministry of Skill Development,6,Offline,Employees,"Data Science, Robotics",Digital Certificate,Skill India Authority,2025-04-03,2025-10-06,1779,Pan-India
+GOV3059,Digital India Skill Development,NSDC,4,Online,Employees,"Cybersecurity, Network Security",Digital Certificate,MeitY,2025-09-16,2025-10-06,4305,Telangana
+GOV3060,Cyber Suraksha,NASSCOM,24,Hybrid,Students,"Data Science, Automation",License,NSDC,2025-03-29,2025-10-06,1962,Delhi NCR
+GOV3061,Women in Tech,Ministry of Skill Development,6,Offline,Students,"Digital Marketing, Cybersecurity",License,Skill India Authority,2025-03-21,2025-10-06,4680,Karnataka
+GOV3062,Cyber Suraksha,Ministry of Electronics & IT,6,Offline,Both,"Robotics, Data Science",License,Skill India Authority,2025-04-28,2025-10-06,3338,Pan-India
+GOV3063,National IoT Initiative,Ministry of Electronics & IT,12,Hybrid,Employees,"Network Security, Blockchain",Badge,AICTE,2025-04-01,2025-10-06,3304,Delhi NCR
+GOV3064,Cyber Suraksha,NASSCOM,24,Offline,Employees,"Digital Marketing, AI",License,Skill India Authority,2025-08-06,2025-10-06,1350,Delhi NCR
+GOV3065,AI for All,NSDC,8,Hybrid,Students,"AI, Blockchain",License,Skill India Authority,2025-09-26,2025-10-06,1580,Telangana
+GOV3066,Digital India Skill Development,AICTE,6,Hybrid,Both,"Network Security, Data Science",Badge,AICTE,2025-03-30,2025-10-06,1077,Pan-India
+GOV3067,Digital India Skill Development,NSDC,4,Offline,Employees,"Network Security, IoT",Badge,MeitY,2025-08-27,2025-10-06,3816,Tamil Nadu
+GOV3068,National IoT Initiative,NASSCOM,4,Online,Students,"Cybersecurity, Digital Marketing",License,MeitY,2024-11-26,2025-10-06,1774,Maharashtra
+GOV3069,National IoT Initiative,Ministry of Electronics & IT,8,Hybrid,Both,"IoT, Cybersecurity",Badge,MeitY,2025-10-03,2025-10-06,2787,Tamil Nadu
+GOV3070,Digital India Skill Development,NASSCOM,6,Hybrid,Students,"Cloud, Automation",Badge,Skill India Authority,2025-05-10,2025-10-06,2091,Maharashtra
+GOV3071,Digital India Skill Development,Ministry of Skill Development,12,Hybrid,Students,"AI, Cloud",Badge,AICTE,2025-06-20,2025-10-06,4395,Maharashtra
+GOV3072,Skill Bharat,Ministry of Electronics & IT,8,Online,Students,"Automation, Data Science",Digital Certificate,MeitY,2024-12-10,2025-10-06,3044,Delhi NCR
+GOV3073,Cyber Suraksha,Ministry of Skill Development,8,Offline,Both,"IoT, Cloud",License,NSDC,2025-06-12,2025-10-06,1468,Maharashtra
+GOV3074,AI for All,Ministry of Skill Development,8,Online,Students,"AI, Data Science",License,Skill India Authority,2024-10-11,2025-10-06,4094,Delhi NCR
+GOV3075,National IoT Initiative,NASSCOM,4,Hybrid,Employees,"IoT, Automation",Badge,AICTE,2025-04-20,2025-10-06,4692,Karnataka
+GOV3076,Cyber Suraksha,NASSCOM,8,Hybrid,Employees,"Robotics, Data Science",License,NSDC,2025-02-16,2025-10-06,3853,Pan-India
+GOV3077,Cyber Suraksha,NASSCOM,24,Hybrid,Employees,"Robotics, Cybersecurity",Digital Certificate,Skill India Authority,2025-02-08,2025-10-06,4403,Karnataka
+GOV3078,Skill Bharat,NSDC,24,Offline,Both,"AI, Cloud",Badge,AICTE,2025-06-24,2025-10-06,1990,Tamil Nadu
+GOV3079,Skill Bharat,Ministry of Skill Development,24,Hybrid,Students,"AI, Cybersecurity",Digital Certificate,Skill India Authority,2025-08-10,2025-10-06,4952,Tamil Nadu
+GOV3080,Digital India Skill Development,NSDC,6,Hybrid,Students,"Robotics, Automation",License,Skill India Authority,2025-08-03,2025-10-06,3379,Pan-India
+GOV3081,Digital India Skill Development,Ministry of Skill Development,6,Hybrid,Both,"Digital Marketing, Network Security",License,MeitY,2025-02-25,2025-10-06,2590,Karnataka
+GOV3082,Women in Tech,NASSCOM,24,Hybrid,Employees,"Cloud, Robotics",Digital Certificate,Skill India Authority,2024-11-08,2025-10-06,2967,Telangana
+GOV3083,Women in Tech,Ministry of Electronics & IT,4,Offline,Employees,"AI, Digital Marketing",License,AICTE,2025-07-23,2025-10-06,3828,Delhi NCR
+GOV3084,National IoT Initiative,AICTE,6,Online,Employees,"IoT, Robotics",License,Skill India Authority,2024-11-30,2025-10-06,4405,Delhi NCR
+GOV3085,Digital India Skill Development,NSDC,24,Offline,Students,"Robotics, AI",Digital Certificate,MeitY,2025-07-08,2025-10-06,1370,Maharashtra
+GOV3086,Digital India Skill Development,NSDC,24,Offline,Students,"Data Science, Cybersecurity",Digital Certificate,Skill India Authority,2025-05-28,2025-10-06,4146,Maharashtra
+GOV3087,Cyber Suraksha,Ministry of Skill Development,24,Offline,Students,"Automation, Robotics",License,Skill India Authority,2024-10-10,2025-10-06,1205,Pan-India
+GOV3088,Cyber Suraksha,NASSCOM,24,Offline,Both,"Cloud, Network Security",License,Skill India Authority,2025-08-04,2025-10-06,1818,Telangana
+GOV3089,AI for All,AICTE,8,Hybrid,Employees,"Robotics, Network Security",License,MeitY,2025-10-01,2025-10-06,3455,Delhi NCR
+GOV3090,Women in Tech,AICTE,6,Hybrid,Both,"Blockchain, Automation",License,MeitY,2025-07-04,2025-10-06,4643,Telangana
+GOV3091,Women in Tech,AICTE,12,Online,Both,"AI, Network Security",Badge,NSDC,2025-03-30,2025-10-06,3364,Delhi NCR
+GOV3092,Digital India Skill Development,NASSCOM,8,Online,Students,"Blockchain, Data Science",Digital Certificate,AICTE,2025-05-21,2025-10-06,3935,Karnataka
+GOV3093,Digital India Skill Development,Ministry of Skill Development,4,Online,Students,"Network Security, Cloud",License,Skill India Authority,2025-04-23,2025-10-06,1904,Pan-India
+GOV3094,Digital India Skill Development,Ministry of Electronics & IT,12,Online,Students,"Blockchain, Network Security",License,AICTE,2025-05-13,2025-10-06,3516,Telangana
+GOV3095,Women in Tech,AICTE,8,Online,Both,"Data Science, Automation",Badge,NSDC,2025-03-20,2025-10-06,4281,Delhi NCR
+GOV3096,Cyber Suraksha,AICTE,24,Hybrid,Students,"Cloud, Robotics",License,AICTE,2025-02-11,2025-10-06,3348,Karnataka
+GOV3097,Cyber Suraksha,NSDC,6,Offline,Both,"AI, Digital Marketing",License,Skill India Authority,2025-09-27,2025-10-06,3516,Pan-India
+GOV3098,Skill Bharat,Ministry of Electronics & IT,12,Hybrid,Both,"Robotics, Data Science",License,AICTE,2025-05-18,2025-10-06,3818,Maharashtra
+GOV3099,Women in Tech,AICTE,8,Hybrid,Both,"Robotics, Digital Marketing",License,NSDC,2025-09-19,2025-10-06,2299,Karnataka

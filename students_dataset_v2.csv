@@ -1,0 +1,101 @@
+student_id,name,email,age,gender,institution,program,current_semester,skills,enrolled_courses,issued_credentials,verification_status,location,nsqf_level
+STU1000,Jayan Gulati,karajiya@yahoo.com,22,Male,Delhi University,BCA,7,"Data Analysis, Cybersecurity",AWS Cloud Essentials,Ethical Hacking Certificate,Pending,Agra,7
+STU1001,Neelofar Wali,khuranadarshit@hotmail.com,21,Male,SRM University,MCA,5,"Java, Cloud Computing",Linux Admin,Ethical Hacking Certificate,Verified,Barasat,4
+STU1002,Nayantara Lal,ivanabath@warrior.com,25,Female,Pune University,BCA,8,"Cloud Computing, Data Analysis",Linux Admin,Ethical Hacking Certificate,Verified,Jammu,3
+STU1003,Kavya Yohannan,heercheema@gmail.com,23,Other,IIT Bombay,M.Tech AI,3,"Java, SQL",Linux Admin,Python Certificate,Verified,Coimbatore,7
+STU1004,Bhavin Chawla,onkarbiswas@gmail.com,20,Female,VIT,B.Tech Computer Science,3,"Blockchain, Cloud Computing",Python for Everyone,Python Certificate,Pending,Kottayam,6
+STU1005,Jivika Varty,contractorsamar@dhar-brar.com,21,Male,VIT,MCA,4,"Cybersecurity, Web Dev",Python for Everyone,Ethical Hacking Certificate,Verified,Bikaner,5
+STU1006,Kiaan Kala,ranbircheema@raj.biz,24,Male,SRM University,B.Sc IT,6,"SQL, Cybersecurity",Ethical Hacking,Ethical Hacking Certificate,Pending,Dharmavaram,4
+STU1007,Hrishita Sharaf,rajagopalanreyansh@kale.com,22,Male,VIT,B.Sc IT,8,"AI, Python",Python for Everyone,AWS Badge,Pending,Sambalpur,6
+STU1008,Stuvan Goyal,bumbchirag@gmail.com,24,Female,Delhi University,MCA,6,"AI, Blockchain",AWS Cloud Essentials,AI MicroCredential,Verified,Dehri,4
+STU1009,Neysa Bhatti,ranbir02@kanda-vaidya.com,22,Other,SRM University,B.Sc IT,2,"Data Analysis, Cloud Computing",AWS Cloud Essentials,AWS Badge,Verified,Rourkela,5
+STU1010,Ranbir Datta,battajiya@datta-guha.com,20,Male,BITS Pilani,B.Tech Computer Science,1,"SQL, ML",Linux Admin,AI MicroCredential,Verified,Allahabad,6
+STU1011,Nehmat Hegde,tara06@randhawa.com,19,Female,VIT,B.Sc IT,1,"Data Analysis, Java",Linux Admin,AI MicroCredential,Verified,Noida,4
+STU1012,Vivaan Koshy,tejassethi@apte.com,21,Female,BITS Pilani,B.Sc IT,3,"ML, Java",Ethical Hacking,AWS Badge,Pending,Alwar,4
+STU1013,Chirag Chauhan,sendhruv@korpal.biz,22,Male,Delhi University,BCA,8,"AI, Cybersecurity",AI Basics,Python Certificate,Verified,Gangtok,5
+STU1014,Ritvik Saran,divyanshsoman@kant.com,23,Other,SRM University,B.Tech Computer Science,7,"Python, ML",Ethical Hacking,Python Certificate,Pending,Katihar,7
+STU1015,Aniruddh Kala,jdasgupta@sarna.com,23,Female,Delhi University,M.Tech AI,4,"Cloud Computing, Cybersecurity",Linux Admin,AI MicroCredential,Verified,Patna,3
+STU1016,Hridaan Suri,wganesan@gmail.com,21,Male,SRM University,BCA,7,"Cybersecurity, Java",AI Basics,Python Certificate,Pending,Katihar,5
+STU1017,Damini Korpal,laldevansh@yahoo.com,21,Male,SRM University,B.Tech Computer Science,8,"Cybersecurity, Python",AWS Cloud Essentials,Ethical Hacking Certificate,Pending,Ratlam,5
+STU1018,Diya Seshadri,vardaniya88@gmail.com,23,Other,Pune University,BCA,7,"ML, Java",Ethical Hacking,Ethical Hacking Certificate,Verified,Ichalkaranji,3
+STU1019,Onkar Vig,uwason@shah.com,20,Male,Delhi University,B.Tech Computer Science,5,"ML, Data Analysis",Ethical Hacking,AWS Badge,Pending,Mumbai,7
+STU1020,Advik Kari,miraya35@khanna-sachdeva.com,18,Male,Delhi University,B.Sc IT,5,"Web Dev, AI",AI Basics,Ethical Hacking Certificate,Verified,Giridih,6
+STU1021,Dhanuk Sule,vardaniyagulati@yahoo.com,25,Other,SRM University,MCA,7,"Blockchain, ML",Ethical Hacking,Python Certificate,Pending,Kota,7
+STU1022,Elakshi Ramesh,asankar@tandon-dube.org,19,Female,VIT,BCA,3,"ML, SQL",AWS Cloud Essentials,AI MicroCredential,Pending,Dhanbad,3
+STU1023,Jayan Sawhney,kismat58@hotmail.com,18,Other,IIT Bombay,MCA,4,"Python, Java",AWS Cloud Essentials,Ethical Hacking Certificate,Pending,Bhalswa Jahangir Pur,5
+STU1024,Dishani Trivedi,oorja29@hotmail.com,18,Male,SRM University,BCA,4,"Data Analysis, Blockchain",Ethical Hacking,AWS Badge,Verified,Solapur,3
+STU1025,Romil Venkataraman,bhamini34@suri-bal.com,20,Female,BITS Pilani,B.Tech Computer Science,8,"Java, Web Dev",AI Basics,Python Certificate,Verified,Ghaziabad,7
+STU1026,Miraya Agate,damini13@kapoor.com,25,Female,IIT Bombay,B.Sc IT,8,"Data Analysis, AI",Python for Everyone,Python Certificate,Pending,Nagpur,5
+STU1027,Sahil D’Alia,ntoor@mandal-goswami.biz,21,Other,BITS Pilani,BCA,6,"ML, Web Dev",Ethical Hacking,Python Certificate,Verified,Bokaro,7
+STU1028,Anya Sane,saksham80@chahal.biz,25,Female,Delhi University,MCA,6,"Python, Data Analysis",AI Basics,AI MicroCredential,Verified,Morena,5
+STU1029,Badal Loyal,tejas25@shah-andra.com,24,Male,IIT Bombay,BCA,7,"Cybersecurity, Web Dev",AWS Cloud Essentials,Python Certificate,Pending,Pallavaram,7
+STU1030,Emir Sachdev,chatterjeedivit@ganesh.com,20,Male,IIT Bombay,BCA,8,"SQL, Cybersecurity",AWS Cloud Essentials,Ethical Hacking Certificate,Verified,Belgaum,3
+STU1031,Faiyaz Bhatt,siya80@hotmail.com,23,Female,SRM University,M.Tech AI,4,"Data Analysis, Cybersecurity",Ethical Hacking,AI MicroCredential,Verified,Rajkot,6
+STU1032,Aarav Goswami,ramachandrangatik@madan-kannan.com,18,Other,SRM University,B.Sc IT,3,"Python, AI",AI Basics,AI MicroCredential,Verified,Srinagar,5
+STU1033,Aarush Shetty,amiraacharya@boase.info,18,Male,SRM University,BCA,5,"SQL, Java",AWS Cloud Essentials,AI MicroCredential,Verified,New Delhi,5
+STU1034,Ivana Sami,nehmat98@gmail.com,20,Male,IIT Bombay,B.Sc IT,2,"Python, Cloud Computing",AWS Cloud Essentials,AI MicroCredential,Verified,Sri Ganganagar,4
+STU1035,Jivin Sant,samihachaudhuri@hotmail.com,18,Other,BITS Pilani,M.Tech AI,5,"SQL, Java",AWS Cloud Essentials,AWS Badge,Pending,Deoghar,6
+STU1036,Samiha Kala,ojas76@ramaswamy.com,20,Male,Delhi University,MCA,3,"Data Analysis, Blockchain",Python for Everyone,Python Certificate,Verified,Bhind,3
+STU1037,Alisha Lata,ykalla@hotmail.com,23,Other,VIT,B.Sc IT,7,"Cloud Computing, Web Dev",AWS Cloud Essentials,Python Certificate,Pending,Hosur,7
+STU1038,Advika Ramachandran,oram@solanki.info,24,Female,Delhi University,MCA,8,"Python, SQL",Python for Everyone,AI MicroCredential,Pending,Bhalswa Jahangir Pur,4
+STU1039,Yakshit Agarwal,bhaminikarpe@bora.info,25,Female,Delhi University,B.Tech Computer Science,2,"ML, Cloud Computing",AWS Cloud Essentials,AI MicroCredential,Pending,Indore,4
+STU1040,Shalv Date,chandafarhan@agate.net,18,Male,SRM University,MCA,8,"Cybersecurity, Blockchain",Python for Everyone,Python Certificate,Pending,Thrissur,7
+STU1041,Advika Krishnamurthy,slata@yahoo.com,20,Other,BITS Pilani,M.Tech AI,6,"Cybersecurity, Blockchain",Linux Admin,AWS Badge,Verified,Munger,7
+STU1042,Jivika Biswas,tripathisana@hotmail.com,18,Female,IIT Bombay,M.Tech AI,5,"Cloud Computing, Data Analysis",AWS Cloud Essentials,AI MicroCredential,Verified,Srikakulam,3
+STU1043,Parinaaz Gala,qdoshi@yahoo.com,25,Male,Pune University,MCA,6,"ML, AI",AI Basics,AI MicroCredential,Verified,Chandigarh,7
+STU1044,Jiya Wable,manikya30@kannan.org,18,Other,Delhi University,B.Sc IT,6,"SQL, AI",AWS Cloud Essentials,Python Certificate,Verified,Gorakhpur,6
+STU1045,Devansh Kuruvilla,borrareyansh@gmail.com,19,Male,SRM University,M.Tech AI,6,"Data Analysis, Cloud Computing",Python for Everyone,Ethical Hacking Certificate,Pending,Junagadh,5
+STU1046,Bhavin Subramaniam,madhav04@tara.com,24,Other,BITS Pilani,M.Tech AI,7,"Cybersecurity, Java",AWS Cloud Essentials,AWS Badge,Verified,Bikaner,3
+STU1047,Faiyaz Jayaraman,gbuch@sant.com,24,Male,Delhi University,BCA,5,"Web Dev, Python",Linux Admin,Python Certificate,Verified,Gandhidham,6
+STU1048,Kavya Sandal,nityaramesh@gmail.com,22,Female,Delhi University,B.Sc IT,5,"Cloud Computing, SQL",AWS Cloud Essentials,AI MicroCredential,Verified,Bhiwani,5
+STU1049,Lagan Divan,zoya86@subramanian.com,18,Other,BITS Pilani,B.Tech Computer Science,2,"Data Analysis, Cloud Computing",AWS Cloud Essentials,Python Certificate,Verified,Orai,3
+STU1050,Dhruv Singhal,tankira@hotmail.com,20,Other,Delhi University,BCA,6,"Data Analysis, Cloud Computing",AWS Cloud Essentials,Python Certificate,Pending,Bathinda,4
+STU1051,Hiran Bhakta,yuvaangrover@yahoo.com,23,Female,IIT Bombay,M.Tech AI,1,"Java, Data Analysis",AI Basics,Ethical Hacking Certificate,Verified,Sambalpur,4
+STU1052,Anaya Dixit,srinivasandharmajan@dass-chokshi.com,22,Other,Delhi University,M.Tech AI,5,"Web Dev, Python",AI Basics,Python Certificate,Verified,Hapur,7
+STU1053,Hansh Shenoy,vdhar@bhatt-saini.com,21,Female,BITS Pilani,B.Sc IT,4,"Java, AI",Linux Admin,Ethical Hacking Certificate,Pending,Khammam,3
+STU1054,Mohanlal Kaul,shaan36@sarraf.net,19,Female,Pune University,MCA,3,"SQL, Java",Python for Everyone,AI MicroCredential,Pending,Dindigul,6
+STU1055,Shalv Subramaniam,shloksule@dixit-divan.org,24,Male,Pune University,MCA,3,"Java, Data Analysis",AI Basics,Python Certificate,Verified,Kulti,5
+STU1056,Dhruv Rege,aarushwarrior@hotmail.com,21,Female,SRM University,BCA,3,"Web Dev, AI",AI Basics,AWS Badge,Verified,Tiruchirappalli,5
+STU1057,Biju Arya,dhruvbawa@sem-kohli.com,24,Female,VIT,B.Tech Computer Science,3,"Cybersecurity, Python",Linux Admin,Python Certificate,Pending,Unnao,3
+STU1058,Devansh Lad,divij30@hotmail.com,19,Female,Pune University,B.Tech Computer Science,3,"Python, ML",AI Basics,AWS Badge,Verified,Raurkela Industrial Township,4
+STU1059,Miraan Sampath,jbhalla@baral.net,24,Male,IIT Bombay,B.Tech Computer Science,8,"SQL, Python",Ethical Hacking,AWS Badge,Verified,Madurai,3
+STU1060,Jhanvi Kala,tanyagrewal@roy.com,19,Other,Pune University,M.Tech AI,5,"Cybersecurity, SQL",Linux Admin,AWS Badge,Pending,Korba,3
+STU1061,Kashvi Keer,ygoswami@yahoo.com,23,Female,IIT Bombay,BCA,2,"Blockchain, Cybersecurity",AWS Cloud Essentials,Python Certificate,Verified,Silchar,4
+STU1062,Bhavin Dhawan,sbabu@hotmail.com,24,Male,IIT Bombay,B.Tech Computer Science,8,"Cybersecurity, AI",AI Basics,Python Certificate,Pending,Solapur,7
+STU1063,Yuvraj  Dhawan,dhillonsara@goyal.com,23,Female,IIT Bombay,BCA,2,"Blockchain, Java",AI Basics,AWS Badge,Pending,Ujjain,3
+STU1064,Zaina Kumer,advik14@gmail.com,22,Female,BITS Pilani,BCA,8,"Python, ML",AWS Cloud Essentials,AI MicroCredential,Verified,Kadapa,6
+STU1065,Ira Butala,settyoorja@gmail.com,18,Female,BITS Pilani,BCA,7,"AI, Python",Linux Admin,AI MicroCredential,Pending,Nizamabad,7
+STU1066,Shayak Edwin,karnikshanaya@hotmail.com,25,Female,Pune University,M.Tech AI,2,"ML, SQL",AWS Cloud Essentials,AWS Badge,Pending,Arrah,3
+STU1067,Emir Borde,bthakur@mann.org,23,Female,IIT Bombay,B.Tech Computer Science,8,"ML, Blockchain",AI Basics,Python Certificate,Verified,Bhalswa Jahangir Pur,5
+STU1068,Neysa Doctor,swaminathannitara@chaudry.com,24,Female,SRM University,BCA,2,"SQL, Blockchain",AWS Cloud Essentials,Python Certificate,Verified,Bidar,6
+STU1069,Dhruv Suri,zkhurana@hotmail.com,25,Female,Delhi University,B.Tech Computer Science,2,"AI, Blockchain",AWS Cloud Essentials,AWS Badge,Verified,Bongaigaon,7
+STU1070,Lagan Toor,jahuja@loke.com,20,Other,VIT,BCA,2,"Cybersecurity, Python",AI Basics,AI MicroCredential,Verified,Gwalior,7
+STU1071,Rasha Agrawal,kbalasubramanian@yahoo.com,23,Female,SRM University,B.Sc IT,4,"Web Dev, Cybersecurity",AWS Cloud Essentials,Python Certificate,Verified,Thane,7
+STU1072,Heer Acharya,alia31@suri.com,25,Other,SRM University,MCA,7,"Java, Data Analysis",Linux Admin,Ethical Hacking Certificate,Pending,Karnal,7
+STU1073,Amani Madan,chhabraanaya@hotmail.com,24,Male,Delhi University,M.Tech AI,1,"Python, ML",Python for Everyone,Ethical Hacking Certificate,Pending,Panvel,5
+STU1074,Stuvan Cherian,ivan91@kapur.com,20,Male,Delhi University,B.Tech Computer Science,4,"Blockchain, AI",Python for Everyone,Python Certificate,Verified,Muzaffarpur,6
+STU1075,Rati Dora,adube@hotmail.com,25,Male,SRM University,B.Tech Computer Science,4,"Data Analysis, Blockchain",Python for Everyone,AI MicroCredential,Verified,Haldia,6
+STU1076,Jhanvi Swaminathan,ela61@jayaraman-kapur.biz,21,Female,BITS Pilani,MCA,6,"AI, Cybersecurity",Ethical Hacking,AWS Badge,Pending,Jehanabad,4
+STU1077,Anya Banerjee,xjohal@gmail.com,19,Male,Delhi University,BCA,1,"Python, ML",Python for Everyone,AWS Badge,Verified,Gulbarga,4
+STU1078,Anaya Lall,reddyvritika@gmail.com,22,Female,BITS Pilani,MCA,7,"ML, Cloud Computing",Python for Everyone,Ethical Hacking Certificate,Verified,Silchar,5
+STU1079,Uthkarsh Sodhi,isuri@baral.info,19,Other,Delhi University,B.Tech Computer Science,2,"Cybersecurity, SQL",AWS Cloud Essentials,Python Certificate,Pending,Gandhinagar,7
+STU1080,Arnav Ramesh,veer11@bora-buch.com,23,Other,SRM University,B.Tech Computer Science,2,"Web Dev, SQL",Linux Admin,Python Certificate,Pending,Bhind,5
+STU1081,Miraya Raval,dharmajanhayre@sant.com,20,Other,VIT,B.Sc IT,4,"ML, SQL",Linux Admin,Python Certificate,Pending,Ambarnath,5
+STU1082,Raunak Ravel,fdash@hotmail.com,22,Male,Pune University,M.Tech AI,1,"Blockchain, Data Analysis",Ethical Hacking,Python Certificate,Pending,Kumbakonam,6
+STU1083,Ivan Rau,pihuborde@kohli.biz,23,Female,SRM University,B.Sc IT,7,"Cybersecurity, Blockchain",Python for Everyone,Ethical Hacking Certificate,Pending,Tiruvottiyur,7
+STU1084,Himmat Mammen,canand@gmail.com,25,Male,VIT,B.Sc IT,3,"Data Analysis, ML",Linux Admin,Ethical Hacking Certificate,Pending,Jaunpur,6
+STU1085,Vidur Ramanathan,navyabrar@mangat.com,18,Other,Delhi University,B.Tech Computer Science,7,"Python, Web Dev",Python for Everyone,AI MicroCredential,Pending,Srikakulam,5
+STU1086,Nakul Mani,bandishayak@hotmail.com,20,Female,Delhi University,MCA,2,"SQL, Web Dev",AWS Cloud Essentials,Ethical Hacking Certificate,Pending,Bally,3
+STU1087,Chirag Raju,maharajpriyansh@trivedi-sarna.net,18,Female,SRM University,B.Sc IT,6,"ML, SQL",AI Basics,Python Certificate,Verified,Eluru,5
+STU1088,Shray Warrior,adah57@hotmail.com,22,Other,VIT,B.Tech Computer Science,3,"Cloud Computing, SQL",Ethical Hacking,AWS Badge,Pending,Bhilwara,6
+STU1089,Priyansh Sarna,kumerindrans@yahoo.com,23,Other,Delhi University,M.Tech AI,2,"Cybersecurity, AI",AWS Cloud Essentials,AI MicroCredential,Verified,Morbi,7
+STU1090,Amani Venkatesh,ysekhon@yahoo.com,19,Male,Delhi University,B.Tech Computer Science,5,"Cybersecurity, Java",Ethical Hacking,AI MicroCredential,Pending,Bettiah,5
+STU1091,Mehul Krishnamurthy,waliaemir@sridhar.biz,24,Other,Delhi University,B.Tech Computer Science,5,"SQL, AI",AWS Cloud Essentials,Python Certificate,Pending,Tumkur,4
+STU1092,Nitara Bhatt,bahritaran@gmail.com,18,Male,BITS Pilani,MCA,3,"Python, AI",Ethical Hacking,AWS Badge,Pending,Chandigarh,5
+STU1093,Amani Gill,purabzacharia@gmail.com,19,Other,SRM University,B.Sc IT,2,"Cybersecurity, Java",Python for Everyone,AWS Badge,Verified,Gudivada,7
+STU1094,Lakshay Kothari,satheyasmin@yohannan.net,21,Female,SRM University,M.Tech AI,5,"AI, Web Dev",Python for Everyone,AWS Badge,Verified,Chapra,4
+STU1095,Azad Bali,shaanbadami@hotmail.com,19,Male,Pune University,MCA,3,"Web Dev, Data Analysis",Python for Everyone,AI MicroCredential,Verified,Proddatur,6
+STU1096,Alia Dube,shaanbuch@hotmail.com,19,Other,VIT,M.Tech AI,3,"ML, Java",Linux Admin,Python Certificate,Pending,Shivpuri,7
+STU1097,Ritvik Ratta,saxenadharmajan@sastry-keer.info,21,Male,VIT,B.Sc IT,8,"Cloud Computing, Cybersecurity",Ethical Hacking,Python Certificate,Pending,Kharagpur,7
+STU1098,Baiju Agarwal,darasana@hotmail.com,19,Female,Delhi University,B.Tech Computer Science,2,"Cloud Computing, AI",Ethical Hacking,Ethical Hacking Certificate,Verified,Alwar,4
+STU1099,Ojas Sawhney,mangatemir@karnik.com,19,Other,SRM University,BCA,5,"Java, SQL",Python for Everyone,Ethical Hacking Certificate,Verified,Thoothukudi,5
